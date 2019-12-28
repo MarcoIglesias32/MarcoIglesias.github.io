@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+  text-size: 50px;
+  font-family: 'Ma Shan Zheng', cursive;
+}
+
+h3 {
+  color: green;
+  margin-left: 3px;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+  color: blue;
+  margin-left: 2px;
+  font-family: 'Pacifico', cursive;
+};
+
